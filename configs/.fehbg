@@ -1,2 +1,2 @@
 #!/bin/sh
-feh --no-fehbg --bg-fill '/home/defal/GitHub/defal7linux/profile/Wallpapers/Journey.webp' 
+feh --no-fehbg --bg-fill '/home/defal/.bg' 
